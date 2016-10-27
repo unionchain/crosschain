@@ -3,14 +3,14 @@ The Crosschain Project
 This is the integration and staging tree for the crosschain Project, a series of
 improvements and extensions to the Bitcoin protocol.
 
-What is the crosschain Project?
+What is the Crosschain Project?
 -----------------
 Crosschain is an open source collaborative project where we work on a collection
 of experiments to more rapidly bring technical innovation to Bitcoin.  crosschain
 are features that are proposed and developed in this technical community that in
 arbitrary combinations can be fashioned into sidechains.
 
-What is crosschain Alpha?
+What is Crosschain Alpha?
 -----------------------
 https://github.com/unionchain/crosschain/tree/alpha
 
