@@ -14,7 +14,7 @@ What is Crosschain Alpha?
 -----------------------
 https://github.com/unionchain/crosschain/tree/alpha
 
-Elements Alpha is the Crosschain project's first experimental test chain.
+Crosschain Alpha is the Crosschain project's first experimental test chain.
 
 Compared to Bitcoin itself, it adds the following features:
  * [Confidential Transactions][confidential-transactions]
